@@ -1,0 +1,6 @@
+*.swp
+*~
+.venv/
+bin/
+build/
+certificate.pdf
